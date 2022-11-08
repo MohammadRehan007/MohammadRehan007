@@ -4,13 +4,13 @@
 
 
 
-- 🔭 I’m currently working on E-commerce website
+- 🔭 I’m currently working on Movie-Ticket booking website
 
-🌱 I’m currently learning Node.js,Ds and Algo
+🌱 I’m currently learning Sql,Angular,Ds and Algo
 
-👨‍💻 All of my projects are available at https://github.com/MohammadSaquib007
+👨‍💻 All of my projects are available at https://github.com/MohammadRehan007
 
-📝 I regularly write articles on https://www.linkedin.com/in/mohammad-saquib-17a077237/
+📝 I regularly write articles on https://www.linkedin.com/in/mohammad-rehan-a4b667191/
 
 💬 Ask me about JavaScript , Node.js ,MongoDB ,Express.js ,Html, Css
 
